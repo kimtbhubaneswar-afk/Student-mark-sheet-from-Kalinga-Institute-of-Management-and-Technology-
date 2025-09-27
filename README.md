@@ -4,14 +4,14 @@ Semester / program marksheets
 Provisional certificates
 Other certificate / academic evidence files
 
-📂 What You’ll Find
+# 📂 What You’ll Find
 You’ll see files such as:
-1.BBA MARKSHEET copy.jpg
-2.BBA PROVISIONAL CERT copy.jpg
-3.M.COM(F&C) MARKSHEET.jpg
-4.M.COM(F&C) PROVISIONAL.jpg
-5.PMIR MARKSHEET.jpg
-6.PMIR PROVISIONAL.jpg
+|1.BBA MARKSHEET copy.jpg|
+|2.BBA PROVISIONAL CERT copy.jpg|
+|3.M.COM(F&C) MARKSHEET.jpg|
+|4.M.COM(F&C) PROVISIONAL.jpg|
+|5.PMIR MARKSHEET.jpg|
+|6.PMIR PROVISIONAL.jpg|
 
 # How to Use / Download
 
