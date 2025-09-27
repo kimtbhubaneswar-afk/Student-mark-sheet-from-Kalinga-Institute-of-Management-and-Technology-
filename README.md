@@ -11,8 +11,8 @@ You’ll see files such as:
 3.M.COM(F&C) MARKSHEET.jpg
 4.M.COM(F&C) PROVISIONAL.jpg
 5.PMIR MARKSHEET.jpg
-6.PMIR PROVISIOANL.jpg
-How to Use / Download
+6.PMIR PROVISIONAL.jpg
+# How to Use / Download
 
 # Browse the file list in this repository.
 Click on the file name (e.g. BBA MARKSHEET copy.jpg).
