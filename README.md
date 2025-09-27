@@ -1,4 +1,4 @@
-# Student Certificate & Marksheet Downloads — Kalinga Institute of Management & Technology
+# Student Certificate & Marksheet  — Kalinga Institute of Management & Technology
 Welcome! This repository provides PDF / image downloads of students’ academic documents from Kalinga Institute of Management & Technology (KIMT), including:
 Semester / program marksheets
 Provisional certificates
@@ -12,6 +12,7 @@ You’ll see files such as:
 4.M.COM(F&C) PROVISIONAL.jpg
 5.PMIR MARKSHEET.jpg
 6.PMIR PROVISIONAL.jpg
+
 # How to Use / Download
 
 # Browse the file list in this repository.
